@@ -88,9 +88,9 @@ module Translations
     end
 
     def clear_supervisor_contact_alert
-      locale('are you sure you want to clear this?',
-             'are you sure you want to clear this?',
-             'are you sure you want to clear this?')
+      locale('¿Estás seguro/a de que quieres borrar esto?',
+             'Está certo de que deseja apagar?',
+             'Are you sure you want to clear this?')
     end
 
     def feminine_success_alert
